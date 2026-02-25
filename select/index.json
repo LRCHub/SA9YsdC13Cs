@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "やめてください",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2026-02-25T12:07:35.681369Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やめてください",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_やめてください_柊マグネタイト.txt"
+    }
+  ]
+}
