@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "やめてください",
+  "base_track": "「やめてください」",
   "base_artist": "柊マグネタイト",
-  "createdAt": "2026-02-25T12:07:35.681369Z",
+  "createdAt": "2026-04-01T12:24:45.006624Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "柊マグネタイト",
       "has_synced": false,
       "path": "select/pl_01_やめてください_柊マグネタイト.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "「やめてください」",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/localdb_01_「やめてください」_柊マグネタイト.txt",
+      "repo_name": "SA9YsdC13Cs"
     }
   ]
 }
